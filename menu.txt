@@ -20,5 +20,8 @@ Kebob 500 9.99
 Steak 600 cal 13.99
 Sandwitch 400 cal 4.99
 
+pizza 3000 cal 9.99
+soup 5 cal 3.99
+steamed dumpling
 
 
